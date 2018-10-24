@@ -1,0 +1,6 @@
+# Device nodes to trigger on-demand module loading.
+fuse fuse c10:229
+tun net/tun c10:200
+uinput uinput c10:223
+hci_vhci vhci c10:137
+snd_seq snd/seq c116:1
